@@ -9,6 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
+  background-color: #800033;
   font-family: "Open Sans", sans-serif;
   color: #444;
 }
@@ -2353,3 +2354,4 @@ section {
 #footer .credits a {
   color: #a2cce3;
 }
+
